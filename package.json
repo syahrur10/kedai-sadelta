@@ -1,0 +1,1 @@
+{ "name": "kedai-sadelta", "version": "2.0.0", "private": true, "scripts": { "dev": "npx serve .", "start": "npx serve ." } }
